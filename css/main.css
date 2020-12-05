@@ -475,4 +475,30 @@ img {
 .site-header__item--active .site-header__link {
   color: #FEA3AC;
 }
+
+.hero {
+  padding-top: 130px;
+  padding-bottom: 147px;
+  color: #fff;
+  background-image: url("../img/slider.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.hero__heading {
+  margin: 0;
+  text-align: center;
+  font-size: 50px;
+  line-height: 62px;
+}
+
+.hero__info-heading {
+  margin: 0;
+  text-align: center;
+  font-family: "Waiting for the sunrise", cursive;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 50px;
+}
 /*# sourceMappingURL=main.css.map */
